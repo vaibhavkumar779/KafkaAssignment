@@ -38,7 +38,7 @@ sbt sbtversion
 
 #### 1. Clone the project.
 ```bash
-git clone https://github.com/Harry3917/Kafka_Assign.git
+git clone https://github.com/vaibhavkumar779/KafkaAssignment.git
 ```
 
 #### 2.Download(https://www.apache.org/dyn/closer.cgi?path=/kafka/3.0.0/kafka_2.13-3.0.0.tgz) the latest Kafka release and extract it:
